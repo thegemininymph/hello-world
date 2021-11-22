@@ -1,2 +1,3 @@
 # hello-world
 First time utilizing GitHub
+ My name is Kristin Cason and I have an adventure hobby and a love of trying new things. In other instances I enjoy being creative when it comes to art in many forms, but overall, I focus on self-development because of being moody now and again. Some days I feel like an introvert and other days I'm an extrovert, based on the topics brought to my attention or when I attempt talking to others. Truth be told, I find it important to practice self-preservation and that goals should be discussed as necessary when it comes to collaborating with others on a project. I'm excited to keep practing coding to become a future professional Software Engineer as a Black woman residing in Centeral Florida. 
